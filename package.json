@@ -1,4 +1,3 @@
-
 {
   "name": "angular-quickstart",
   "version": "1.0.0",
@@ -33,6 +32,6 @@
     "concurrently": "^2.2.0",
     "lite-server": "^2.2.2",
     "typescript": "^2.0.2",
-    "typings":"^1.3.2"
+    "typings": "^1.3.2"
   }
 }

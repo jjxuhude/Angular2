@@ -1,9 +1,9 @@
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { AppComponent }   from './app.component';
+import { LoopbackComponent,KeyUpComponent_v2,KeyUpComponent_v3,KeyUpComponent_v4}   from './app.component3';
 @NgModule({
   imports:      [ BrowserModule ],
-  declarations: [ AppComponent ],
-  bootstrap:    [ AppComponent ]
+  declarations: [ LoopbackComponent,KeyUpComponent_v2,KeyUpComponent_v3,KeyUpComponent_v4],
+  bootstrap:    [ LoopbackComponent,KeyUpComponent_v2,KeyUpComponent_v3,KeyUpComponent_v4 ]
 })
 export class AppModule { }
